@@ -10,8 +10,14 @@
       
 |         Βήμα 1,2          |        Βήμα 3,4      |
 |:----------------------------------:|:------------------------------------:|
-| ![cup1](images/cup1.png) | ![cup2](images/cup2.png) |
+| ![1](images/1.png) | ![2](images/2.png) |
 |         Βήμα 5,6          |          Βήμα 7           |
-| ![cup3](images/cup3.png) | ![cup4](images/cup4.png) |
+| ![3](images/3.png) | ![4](images/4.png) |
 |         Βήμα 8           |           Βήμα 9         |
-| ![cup5](images/cup5.png) | ![slicer](images/cupslicer1.png) |
+| ![5](images/5.png) | ![6](images/6.png) |
+|         Βήμα 8           |           Βήμα 9         |
+| ![7](images/7.png) | ![8](images/8.png) |
+|         Βήμα 8           |           Βήμα 9         |
+| ![9](images/5.png) | ![10](images/10.png) |
+|         Βήμα 8           |           Βήμα 9         |
+| ![11](images/9.png) | ![12](images/12.png) |
